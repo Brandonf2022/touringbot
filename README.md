@@ -20,7 +20,7 @@ Assists in interpreting data and managing data collection and analysis related t
 Processes information from a range of sources including text documents, images, and websites.
 
 ## How to Use
-Touring Bot 2.0 is designed to streamline the process of data organization for music industry professionals. Here’s how to use the bot:
+Touring Bot 2.0 is designed to streamline data entry about where artists have performed, when, and with whom. Here’s how to use the bot:
 
 1. **Provide Data**: Input your data about artists, performances, or festivals. This can be in the form of text, images, or web links.
 2. **Specify Requirements**: Let the bot know specific details or formats you require for your data organization.
