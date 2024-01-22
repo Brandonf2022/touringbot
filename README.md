@@ -37,7 +37,7 @@ Because touringbot uses natural language instructions, it can probably be deploy
 Sample datasets will be added at a later date.
 
 ## Documentation
-See the Documentation folder for more information 
+For a demonstration of the system working, please watch the video included in this repository.
 
 ## Contributing
 We welcome contributions to Touring Bot 2.0! If you have suggestions, bug reports, or enhancements, please file them as issues in this repository. For major changes, please open a pull request for review.
