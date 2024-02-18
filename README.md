@@ -1,5 +1,7 @@
 # Touring Bot 3.0
 
+![DALL·E 2024-02-18 15 15 22 - Imagine a charming and hardworking little robot, named Touringbot, designed for data entry tasks related to social network analysis, especially focuse](https://github.com/Brandonf2022/touringbot/assets/102544486/7a3d2fd1-4e00-45da-a1f5-1fd9e701a4f0)
+
 ## Introduction
 Welcome to the repository of Touring Bot 3.0, a specialized data entry and analysis tool developed to assist with compiling detailed information about artists, festivals, and performances into structured, easy-to-use spreadsheets. This facilitates social network analysis in the music industry, making it an invaluable tool for researchers and professionals alike.
 
