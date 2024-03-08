@@ -1,0 +1,1822 @@
+[
+  {
+    "start": [
+      11.9336594,
+      57.6985081,
+      0
+    ],
+    "end": [
+      18.032334,
+      59.3144928,
+      0
+    ],
+    "name": "Oceanen G\u00f6teborg > Debaser Stockholm"
+  },
+  {
+    "start": [
+      18.032334,
+      59.3144928,
+      0
+    ],
+    "end": [
+      12.5381454,
+      55.7049337,
+      0
+    ],
+    "name": "Debaser Stockholm > Lygtens Copenhagen"
+  },
+  {
+    "start": [
+      12.5381454,
+      55.7049337,
+      0
+    ],
+    "end": [
+      13.05501,
+      47.80949,
+      0
+    ],
+    "name": "Lygtens Copenhagen > Performing Sound Salzburg"
+  },
+  {
+    "start": [
+      13.05501,
+      47.80949,
+      0
+    ],
+    "end": [
+      13.4547738,
+      52.5072762,
+      0
+    ],
+    "name": "Performing Sound Salzburg > Cassiopeia Berlin"
+  },
+  {
+    "start": [
+      13.4547738,
+      52.5072762,
+      0
+    ],
+    "end": [
+      9.9480099,
+      53.5445084,
+      0
+    ],
+    "name": "Cassiopeia Berlin > Hafenklang Hamburg"
+  },
+  {
+    "start": [
+      9.9480099,
+      53.5445084,
+      0
+    ],
+    "end": [
+      6.9855036,
+      50.9491357,
+      0
+    ],
+    "name": "Hafenklang Hamburg > Geb\u00e4ude 9 Cologne"
+  },
+  {
+    "start": [
+      6.9855036,
+      50.9491357,
+      0
+    ],
+    "end": [
+      12.3791888,
+      51.3372051,
+      0
+    ],
+    "name": "Geb\u00e4ude 9 Cologne > Moritzbastei Leipzig"
+  },
+  {
+    "start": [
+      12.3791888,
+      51.3372051,
+      0
+    ],
+    "end": [
+      4.8357765,
+      45.7712866,
+      0
+    ],
+    "name": "Moritzbastei Leipzig > The Kraspek Mysic Lyon"
+  },
+  {
+    "start": [
+      4.8357765,
+      45.7712866,
+      0
+    ],
+    "end": [
+      15.4293266,
+      47.0711181,
+      0
+    ],
+    "name": "The Kraspek Mysic Lyon > Caf\u00e9 Wolf Graz"
+  },
+  {
+    "start": [
+      15.4293266,
+      47.0711181,
+      0
+    ],
+    "end": [
+      17.1253268,
+      48.1692027,
+      0
+    ],
+    "name": "Caf\u00e9 Wolf Graz > Pakt Bratislava"
+  },
+  {
+    "start": [
+      17.1253268,
+      48.1692027,
+      0
+    ],
+    "end": [
+      18.730866,
+      49.2183412,
+      0
+    ],
+    "name": "Pakt Bratislava > Stanica Zilina"
+  },
+  {
+    "start": [
+      18.730866,
+      49.2183412,
+      0
+    ],
+    "end": [
+      18.1430308,
+      49.4585261,
+      0
+    ],
+    "name": "Stanica Zilina > U:Festival Ro\u017enov pod Radho\u0161t\u011bm"
+  },
+  {
+    "start": [
+      18.1430308,
+      49.4585261,
+      0
+    ],
+    "end": [
+      8.52851,
+      49.4661583,
+      0
+    ],
+    "name": "U:Festival Ro\u017enov pod Radho\u0161t\u011bm > Maifeld Derby Festival Mannheim"
+  },
+  {
+    "start": [
+      8.52851,
+      49.4661583,
+      0
+    ],
+    "end": [
+      12.7206453,
+      56.7422437,
+      0
+    ],
+    "name": "Maifeld Derby Festival Mannheim > Bzzz! Sound art festival Harplinge"
+  },
+  {
+    "start": [
+      12.7206453,
+      56.7422437,
+      0
+    ],
+    "end": [
+      11.97456,
+      57.70887,
+      0
+    ],
+    "name": "Bzzz! Sound art festival Harplinge > Way Out West festival G\u00f6teborg"
+  },
+  {
+    "start": [
+      11.97456,
+      57.70887,
+      0
+    ],
+    "end": [
+      13.4194699,
+      52.4992921,
+      0
+    ],
+    "name": "Way Out West festival G\u00f6teborg > Monarch Bar Berlin"
+  },
+  {
+    "start": [
+      13.4194699,
+      52.4992921,
+      0
+    ],
+    "end": [
+      12.1607091,
+      47.5835481,
+      0
+    ],
+    "name": "Monarch Bar Berlin > Klangfarben Kufstein"
+  },
+  {
+    "start": [
+      12.1607091,
+      47.5835481,
+      0
+    ],
+    "end": [
+      7.4474468,
+      46.9479739,
+      0
+    ],
+    "name": "Klangfarben Kufstein > Full Of Lava Festival Bern"
+  },
+  {
+    "start": [
+      7.4474468,
+      46.9479739,
+      0
+    ],
+    "end": [
+      18.0369788,
+      59.3457341,
+      0
+    ],
+    "name": "Full Of Lava Festival Bern > AKT UNG! Stockholm"
+  },
+  {
+    "start": [
+      18.0369788,
+      59.3457341,
+      0
+    ],
+    "end": [
+      6.7824545,
+      51.2230411,
+      0
+    ],
+    "name": "AKT UNG! Stockholm > GERD\u00fcsseldorf D\u00fcsseldorf"
+  },
+  {
+    "start": [
+      6.7824545,
+      51.2230411,
+      0
+    ],
+    "end": [
+      21.3778654,
+      56.5876617,
+      0
+    ],
+    "name": "GERD\u00fcsseldorf D\u00fcsseldorf > Zemlika Festival Durbe"
+  },
+  {
+    "start": [
+      21.3778654,
+      56.5876617,
+      0
+    ],
+    "end": [
+      13.7480916,
+      51.0690723,
+      0
+    ],
+    "name": "Zemlika Festival Durbe > Hole of Fame Dresden"
+  },
+  {
+    "start": [
+      13.7480916,
+      51.0690723,
+      0
+    ],
+    "end": [
+      12.0013003,
+      57.8660983,
+      0
+    ],
+    "name": "Hole of Fame Dresden > Nordiskt Ljus Kung\u00e4lv"
+  },
+  {
+    "start": [
+      12.0013003,
+      57.8660983,
+      0
+    ],
+    "end": [
+      22.568575,
+      51.2485005,
+      0
+    ],
+    "name": "Nordiskt Ljus Kung\u00e4lv > Inne Brzmienia Festival Lublin"
+  },
+  {
+    "start": [
+      22.568575,
+      51.2485005,
+      0
+    ],
+    "end": [
+      1.444209,
+      43.604652,
+      0
+    ],
+    "name": "Inne Brzmienia Festival Lublin > Les Siestes \u00c9lectroniques Toulouse"
+  },
+  {
+    "start": [
+      1.444209,
+      43.604652,
+      0
+    ],
+    "end": [
+      11.9345565,
+      57.6996865,
+      0
+    ],
+    "name": "Les Siestes \u00c9lectroniques Toulouse > Skeppet GBG Gothenburg"
+  },
+  {
+    "start": [
+      11.9345565,
+      57.6996865,
+      0
+    ],
+    "end": [
+      11.97456,
+      57.70887,
+      0
+    ],
+    "name": "Skeppet GBG Gothenburg > Orca Sessions Gothenburg"
+  },
+  {
+    "start": [
+      11.97456,
+      57.70887,
+      0
+    ],
+    "end": [
+      2.3833803,
+      51.0311555,
+      0
+    ],
+    "name": "Orca Sessions Gothenburg > Les 4 Ecluses Dunkerque"
+  },
+  {
+    "start": [
+      2.3833803,
+      51.0311555,
+      0
+    ],
+    "end": [
+      1.420483,
+      51.3347127,
+      0
+    ],
+    "name": "Les 4 Ecluses Dunkerque > Ramsgate Music Hall Ramsgate"
+  },
+  {
+    "start": [
+      1.420483,
+      51.3347127,
+      0
+    ],
+    "end": [
+      -1.4727713,
+      53.3759091,
+      0
+    ],
+    "name": "Ramsgate Music Hall Ramsgate > Record Junkee Sheffield"
+  },
+  {
+    "start": [
+      -1.4727713,
+      53.3759091,
+      0
+    ],
+    "end": [
+      -1.5707403,
+      53.8098539,
+      0
+    ],
+    "name": "Record Junkee Sheffield > Brudenell Social Club Leeds"
+  },
+  {
+    "start": [
+      -1.5707403,
+      53.8098539,
+      0
+    ],
+    "end": [
+      -1.5917249,
+      54.9751945,
+      0
+    ],
+    "name": "Brudenell Social Club Leeds > The Cluny2 Newcastle"
+  },
+  {
+    "start": [
+      -1.5917249,
+      54.9751945,
+      0
+    ],
+    "end": [
+      1.2878211,
+      52.6315681,
+      0
+    ],
+    "name": "The Cluny2 Newcastle > Norwich Art Center Norwich"
+  },
+  {
+    "start": [
+      1.2878211,
+      52.6315681,
+      0
+    ],
+    "end": [
+      -4.2690675,
+      55.8659844,
+      0
+    ],
+    "name": "Norwich Art Center Norwich > Broadcast Glasgow"
+  },
+  {
+    "start": [
+      -4.2690675,
+      55.8659844,
+      0
+    ],
+    "end": [
+      -2.2515562,
+      53.4923632,
+      0
+    ],
+    "name": "Broadcast Glasgow > The White Hotel Manchester"
+  },
+  {
+    "start": [
+      -2.2515562,
+      53.4923632,
+      0
+    ],
+    "end": [
+      -1.1245125,
+      52.6353767,
+      0
+    ],
+    "name": "The White Hotel Manchester > The Soundhouse Leicester"
+  },
+  {
+    "start": [
+      -1.1245125,
+      52.6353767,
+      0
+    ],
+    "end": [
+      -2.5899185,
+      51.4638235,
+      0
+    ],
+    "name": "The Soundhouse Leicester > The Crofters Rights Bristol"
+  },
+  {
+    "start": [
+      -2.5899185,
+      51.4638235,
+      0
+    ],
+    "end": [
+      -0.1050417,
+      51.5325368,
+      0
+    ],
+    "name": "The Crofters Rights Bristol > Electrowerkz London"
+  },
+  {
+    "start": [
+      -0.1050417,
+      51.5325368,
+      0
+    ],
+    "end": [
+      4.4031166,
+      51.2156454,
+      0
+    ],
+    "name": "Electrowerkz London > Kavka Antwerp"
+  },
+  {
+    "start": [
+      4.4031166,
+      51.2156454,
+      0
+    ],
+    "end": [
+      -1.9479664,
+      54.9456129,
+      0
+    ],
+    "name": "Kavka Antwerp > ROADBURN Tilburg"
+  },
+  {
+    "start": [
+      -1.9479664,
+      54.9456129,
+      0
+    ],
+    "end": [
+      13.003822,
+      55.604981,
+      0
+    ],
+    "name": "ROADBURN Tilburg > Intonal Festival Malmo"
+  },
+  {
+    "start": [
+      13.003822,
+      55.604981,
+      0
+    ],
+    "end": [
+      11.97456,
+      57.70887,
+      0
+    ],
+    "name": "Intonal Festival Malmo > Skjulet G\u00f6teborg"
+  },
+  {
+    "start": [
+      11.97456,
+      57.70887,
+      0
+    ],
+    "end": [
+      10.752875,
+      59.9200628,
+      0
+    ],
+    "name": "Skjulet G\u00f6teborg > Bl\u00e5 Oslo"
+  },
+  {
+    "start": [
+      10.752875,
+      59.9200628,
+      0
+    ],
+    "end": [
+      12.5652471,
+      55.6771524,
+      0
+    ],
+    "name": "Bl\u00e5 Oslo > Pumpehuset Copenhagen"
+  },
+  {
+    "start": [
+      12.5652471,
+      55.6771524,
+      0
+    ],
+    "end": [
+      8.7995332,
+      53.0775615,
+      0
+    ],
+    "name": "Pumpehuset Copenhagen > MS-Loretta Bremen"
+  },
+  {
+    "start": [
+      8.7995332,
+      53.0775615,
+      0
+    ],
+    "end": [
+      9.5381819,
+      48.8078468,
+      0
+    ],
+    "name": "MS-Loretta Bremen > Club Manufaktur Schorndorf"
+  },
+  {
+    "start": [
+      9.5381819,
+      48.8078468,
+      0
+    ],
+    "end": [
+      12.16275,
+      47.58237,
+      0
+    ],
+    "name": "Club Manufaktur Schorndorf > The Art of Solo Festival Kufstein"
+  },
+  {
+    "start": [
+      12.16275,
+      47.58237,
+      0
+    ],
+    "end": [
+      15.4293266,
+      47.0711181,
+      0
+    ],
+    "name": "The Art of Solo Festival Kufstein > Cafe Wolf Graz"
+  },
+  {
+    "start": [
+      15.4293266,
+      47.0711181,
+      0
+    ],
+    "end": [
+      14.2820645,
+      48.300757,
+      0
+    ],
+    "name": "Cafe Wolf Graz > KAPU Linz"
+  },
+  {
+    "start": [
+      14.2820645,
+      48.300757,
+      0
+    ],
+    "end": [
+      14.4362048,
+      50.0952569,
+      0
+    ],
+    "name": "KAPU Linz > Bike Jesus Prague"
+  },
+  {
+    "start": [
+      14.4362048,
+      50.0952569,
+      0
+    ],
+    "end": [
+      21.0369122,
+      52.2592766,
+      0
+    ],
+    "name": "Bike Jesus Prague > Hydrozagadka Warsaw"
+  },
+  {
+    "start": [
+      21.0369122,
+      52.2592766,
+      0
+    ],
+    "end": [
+      25.2796514,
+      54.6871555,
+      0
+    ],
+    "name": "Hydrozagadka Warsaw > XI20 Vilnius"
+  },
+  {
+    "start": [
+      25.2796514,
+      54.6871555,
+      0
+    ],
+    "end": [
+      24.0947951,
+      56.9455951,
+      0
+    ],
+    "name": "XI20 Vilnius > Noass Riga"
+  },
+  {
+    "start": [
+      24.0947951,
+      56.9455951,
+      0
+    ],
+    "end": [
+      24.7324098,
+      59.440684,
+      0
+    ],
+    "name": "Noass Riga > Svetaa Baar Tallinn"
+  },
+  {
+    "start": [
+      24.7324098,
+      59.440684,
+      0
+    ],
+    "end": [
+      18.6088553,
+      54.377134,
+      0
+    ],
+    "name": "Svetaa Baar Tallinn > Klub Ziemia Gdansk"
+  },
+  {
+    "start": [
+      18.6088553,
+      54.377134,
+      0
+    ],
+    "end": [
+      13.4423991,
+      52.5115157,
+      0
+    ],
+    "name": "Klub Ziemia Gdansk > Kantine Berghain Berlin"
+  },
+  {
+    "start": [
+      13.4423991,
+      52.5115157,
+      0
+    ],
+    "end": [
+      7.4725302,
+      51.5330563,
+      0
+    ],
+    "name": "Kantine Berghain Berlin > Junkyard Dortmund"
+  },
+  {
+    "start": [
+      7.4725302,
+      51.5330563,
+      0
+    ],
+    "end": [
+      2.3767124,
+      48.8355263,
+      0
+    ],
+    "name": "Junkyard Dortmund > Petit Bain Paris"
+  },
+  {
+    "start": [
+      2.3767124,
+      48.8355263,
+      0
+    ],
+    "end": [
+      -0.403791,
+      43.2928054,
+      0
+    ],
+    "name": "Petit Bain Paris > La Ferronnerie Pau"
+  },
+  {
+    "start": [
+      -0.403791,
+      43.2928054,
+      0
+    ],
+    "end": [
+      -5.8421171,
+      43.3641093,
+      0
+    ],
+    "name": "La Ferronnerie Pau > La Salvaje Oviedo"
+  },
+  {
+    "start": [
+      -5.8421171,
+      43.3641093,
+      0
+    ],
+    "end": [
+      -9.1445953,
+      38.7117856,
+      0
+    ],
+    "name": "La Salvaje Oviedo > ZDB Lisboa"
+  },
+  {
+    "start": [
+      -9.1445953,
+      38.7117856,
+      0
+    ],
+    "end": [
+      -8.597596,
+      41.1450286,
+      0
+    ],
+    "name": "ZDB Lisboa > Sala Estudio Porto"
+  },
+  {
+    "start": [
+      -8.597596,
+      41.1450286,
+      0
+    ],
+    "end": [
+      -3.7025532,
+      40.4197191,
+      0
+    ],
+    "name": "Sala Estudio Porto > Wurlitzer Ballroom Madrid"
+  },
+  {
+    "start": [
+      -3.7025532,
+      40.4197191,
+      0
+    ],
+    "end": [
+      2.1911561,
+      41.3994325,
+      0
+    ],
+    "name": "Wurlitzer Ballroom Madrid > Sala Vol Barcelona"
+  },
+  {
+    "start": [
+      2.1911561,
+      41.3994325,
+      0
+    ],
+    "end": [
+      1.450448,
+      43.605547,
+      0
+    ],
+    "name": "Sala Vol Barcelona > Le Connexion Live Toulouse"
+  },
+  {
+    "start": [
+      1.450448,
+      43.605547,
+      0
+    ],
+    "end": [
+      4.8199736,
+      45.7510255,
+      0
+    ],
+    "name": "Le Connexion Live Toulouse > Sonic Lyon"
+  },
+  {
+    "start": [
+      4.8199736,
+      45.7510255,
+      0
+    ],
+    "end": [
+      6.1354195,
+      46.2093949,
+      0
+    ],
+    "name": "Sonic Lyon > Cave12 Geneva"
+  },
+  {
+    "start": [
+      6.1354195,
+      46.2093949,
+      0
+    ],
+    "end": [
+      7.7678774,
+      48.559588,
+      0
+    ],
+    "name": "Cave12 Geneva > La Maison Bleue Strasbourg"
+  },
+  {
+    "start": [
+      7.7678774,
+      48.559588,
+      0
+    ],
+    "end": [
+      8.5364789,
+      47.3434576,
+      0
+    ],
+    "name": "La Maison Bleue Strasbourg > Rote Fabrik Z\u00fcrich"
+  },
+  {
+    "start": [
+      8.5364789,
+      47.3434576,
+      0
+    ],
+    "end": [
+      6.1757156,
+      49.1193089,
+      0
+    ],
+    "name": "Rote Fabrik Z\u00fcrich > Young Team Festival Metz"
+  },
+  {
+    "start": [
+      6.1757156,
+      49.1193089,
+      0
+    ],
+    "end": [
+      3.7303351,
+      51.0500182,
+      0
+    ],
+    "name": "Young Team Festival Metz > dunk!Festival Ghent"
+  },
+  {
+    "start": [
+      3.7303351,
+      51.0500182,
+      0
+    ],
+    "end": [
+      5.7999133,
+      53.2012334,
+      0
+    ],
+    "name": "dunk!Festival Ghent > Explore The North Festival Leeuwarden"
+  },
+  {
+    "start": [
+      5.7999133,
+      53.2012334,
+      0
+    ],
+    "end": [
+      6.0021854,
+      50.8941886,
+      0
+    ],
+    "name": "Explore The North Festival Leeuwarden > Oefenbunker Landgraaf"
+  },
+  {
+    "start": [
+      6.0021854,
+      50.8941886,
+      0
+    ],
+    "end": [
+      12.544106,
+      55.667788,
+      0
+    ],
+    "name": "Oefenbunker Landgraaf > Basement Copenhagen"
+  },
+  {
+    "start": [
+      12.544106,
+      55.667788,
+      0
+    ],
+    "end": [
+      10.40237,
+      55.403756,
+      0
+    ],
+    "name": "Basement Copenhagen > Resonator Festival Odense"
+  },
+  {
+    "start": [
+      10.40237,
+      55.403756,
+      0
+    ],
+    "end": [
+      11.5875445,
+      50.9361813,
+      0
+    ],
+    "name": "Resonator Festival Odense > Trafo Jena"
+  },
+  {
+    "start": [
+      11.5875445,
+      50.9361813,
+      0
+    ],
+    "end": [
+      16.9404016,
+      52.4078129,
+      0
+    ],
+    "name": "Trafo Jena > Pawilion Poznan"
+  },
+  {
+    "start": [
+      16.9404016,
+      52.4078129,
+      0
+    ],
+    "end": [
+      16.8383428,
+      41.1095122,
+      0
+    ],
+    "name": "Pawilion Poznan > Teatro Kismet Bari"
+  },
+  {
+    "start": [
+      16.8383428,
+      41.1095122,
+      0
+    ],
+    "end": [
+      16.192421,
+      58.587745,
+      0
+    ],
+    "name": "Teatro Kismet Bari > Annan Musik Antikvariatet Norrk\u00f6ping"
+  },
+  {
+    "start": [
+      16.192421,
+      58.587745,
+      0
+    ],
+    "end": [
+      16.9404016,
+      52.4078129,
+      0
+    ],
+    "name": "Annan Musik Antikvariatet Norrk\u00f6ping > Pawilon Poznan"
+  },
+  {
+    "start": [
+      16.9404016,
+      52.4078129,
+      0
+    ],
+    "end": [
+      18.0689616,
+      59.3385724,
+      0
+    ],
+    "name": "Pawilon Poznan > R\u00f6nnells Antikvariat Stockholm"
+  },
+  {
+    "start": [
+      18.0689616,
+      59.3385724,
+      0
+    ],
+    "end": [
+      13.7372621,
+      51.0504088,
+      0
+    ],
+    "name": "R\u00f6nnells Antikvariat Stockholm > DAVE Festival Dresden"
+  },
+  {
+    "start": [
+      13.7372621,
+      51.0504088,
+      0
+    ],
+    "end": [
+      12.1169569,
+      57.7399911,
+      0
+    ],
+    "name": "DAVE Festival Dresden > Partille Arena Partille"
+  },
+  {
+    "start": [
+      12.1169569,
+      57.7399911,
+      0
+    ],
+    "end": [
+      9.969844,
+      53.556561,
+      0
+    ],
+    "name": "Partille Arena Partille > 4fakult\u00e4t Resonanzraum Hamburg"
+  },
+  {
+    "start": [
+      9.969844,
+      53.556561,
+      0
+    ],
+    "end": [
+      24.7535746,
+      59.4369608,
+      0
+    ],
+    "name": "4fakult\u00e4t Resonanzraum Hamburg > GROM MMXX Tallin"
+  },
+  {
+    "start": [
+      24.7535746,
+      59.4369608,
+      0
+    ],
+    "end": [
+      16.9404016,
+      52.4078129,
+      0
+    ],
+    "name": "GROM MMXX Tallin > Pawillion Poznan"
+  },
+  {
+    "start": [
+      16.9404016,
+      52.4078129,
+      0
+    ],
+    "end": [
+      17.0234428,
+      51.1013748,
+      0
+    ],
+    "name": "Pawillion Poznan > Czula Jest Noc Wroclaw"
+  },
+  {
+    "start": [
+      17.0234428,
+      51.1013748,
+      0
+    ],
+    "end": [
+      20.9889392,
+      52.2370055,
+      0
+    ],
+    "name": "Czula Jest Noc Wroclaw > Chlodna 25 Warsaw"
+  },
+  {
+    "start": [
+      20.9889392,
+      52.2370055,
+      0
+    ],
+    "end": [
+      17.1121013,
+      48.1444756,
+      0
+    ],
+    "name": "Chlodna 25 Warsaw > Fuga Bratislava"
+  },
+  {
+    "start": [
+      17.1121013,
+      48.1444756,
+      0
+    ],
+    "end": [
+      12.1607091,
+      47.5835481,
+      0
+    ],
+    "name": "Fuga Bratislava > KlangFarben Kufstein Kufstein"
+  },
+  {
+    "start": [
+      12.1607091,
+      47.5835481,
+      0
+    ],
+    "end": [
+      13.4432358,
+      52.4756832,
+      0
+    ],
+    "name": "KlangFarben Kufstein Kufstein > Alter Roter L\u00f6we Rein Berlin"
+  },
+  {
+    "start": [
+      13.4432358,
+      52.4756832,
+      0
+    ],
+    "end": [
+      13.7480916,
+      51.0690723,
+      0
+    ],
+    "name": "Alter Roter L\u00f6we Rein Berlin > Hole of Fame Dresden"
+  },
+  {
+    "start": [
+      13.7480916,
+      51.0690723,
+      0
+    ],
+    "end": [
+      14.6774664,
+      49.4129888,
+      0
+    ],
+    "name": "Hole of Fame Dresden > Jednot\u011b T\u00e0bor T\u00e0bor"
+  },
+  {
+    "start": [
+      14.6774664,
+      49.4129888,
+      0
+    ],
+    "end": [
+      14.404544,
+      50.084951,
+      0
+    ],
+    "name": "Jednot\u011b T\u00e0bor T\u00e0bor > \u010cesk\u00e9 Muzeum Hudby / Czech Museum of Music Prague"
+  },
+  {
+    "start": [
+      14.404544,
+      50.084951,
+      0
+    ],
+    "end": [
+      16.6125368,
+      49.1956136,
+      0
+    ],
+    "name": "\u010cesk\u00e9 Muzeum Hudby / Czech Museum of Music Prague > Kabinet M\u00daZ Brno"
+  },
+  {
+    "start": [
+      16.6125368,
+      49.1956136,
+      0
+    ],
+    "end": [
+      17.1378951,
+      48.959516,
+      0
+    ],
+    "name": "Kabinet M\u00daZ Brno > Ears of Village Milotice Milotice"
+  },
+  {
+    "start": [
+      17.1378951,
+      48.959516,
+      0
+    ],
+    "end": [
+      17.5853861,
+      48.37841,
+      0
+    ],
+    "name": "Ears of Village Milotice Milotice > Festival Ypsalon Maly Berlin Trnava Trnava"
+  },
+  {
+    "start": [
+      17.5853861,
+      48.37841,
+      0
+    ],
+    "end": [
+      15.9763805,
+      45.7909434,
+      0
+    ],
+    "name": "Festival Ypsalon Maly Berlin Trnava Trnava > Klub Mo\u010dvara Zagreb"
+  },
+  {
+    "start": [
+      15.9763805,
+      45.7909434,
+      0
+    ],
+    "end": [
+      16.3390973,
+      48.2107026,
+      0
+    ],
+    "name": "Klub Mo\u010dvara Zagreb > Rhiz Wien"
+  },
+  {
+    "start": [
+      16.3390973,
+      48.2107026,
+      0
+    ],
+    "end": [
+      11.0034326,
+      45.4416917,
+      0
+    ],
+    "name": "Rhiz Wien > Ai Preti Verona"
+  },
+  {
+    "start": [
+      11.0034326,
+      45.4416917,
+      0
+    ],
+    "end": [
+      9.1633607,
+      45.4465661,
+      0
+    ],
+    "name": "Ai Preti Verona > Teatro Linguaggicreativi Milano"
+  },
+  {
+    "start": [
+      9.1633607,
+      45.4465661,
+      0
+    ],
+    "end": [
+      8.1373987,
+      45.580223,
+      0
+    ],
+    "name": "Teatro Linguaggicreativi Milano > Vecchio Mulino Valdengo"
+  },
+  {
+    "start": [
+      8.1373987,
+      45.580223,
+      0
+    ],
+    "end": [
+      6.1365318,
+      46.2012054,
+      0
+    ],
+    "name": "Vecchio Mulino Valdengo > Le Cabinet Geneva"
+  },
+  {
+    "start": [
+      6.1365318,
+      46.2012054,
+      0
+    ],
+    "end": [
+      8.5115307,
+      47.3904468,
+      0
+    ],
+    "name": "Le Cabinet Geneva > Zurich University of the Arts Zurich"
+  },
+  {
+    "start": [
+      8.5115307,
+      47.3904468,
+      0
+    ],
+    "end": [
+      11.402167,
+      47.2676275,
+      0
+    ],
+    "name": "Zurich University of the Arts Zurich > p.m.k. Innsbruck"
+  },
+  {
+    "start": [
+      11.402167,
+      47.2676275,
+      0
+    ],
+    "end": [
+      16.3396939,
+      48.1872621,
+      0
+    ],
+    "name": "p.m.k. Innsbruck > Fabrik Wien Wien"
+  },
+  {
+    "start": [
+      16.3396939,
+      48.1872621,
+      0
+    ],
+    "end": [
+      11.97456,
+      57.70887,
+      0
+    ],
+    "name": "Fabrik Wien Wien > Skjul 46 G\u00f6teborg"
+  },
+  {
+    "start": [
+      11.97456,
+      57.70887,
+      0
+    ],
+    "end": [
+      15.0497858,
+      56.1665226,
+      0
+    ],
+    "name": "Skjul 46 G\u00f6teborg > PLX Tj\u00e4r\u00f6 Tj\u00e4r\u00f6"
+  },
+  {
+    "start": [
+      15.0497858,
+      56.1665226,
+      0
+    ],
+    "end": [
+      13.4426702,
+      52.4738267,
+      0
+    ],
+    "name": "PLX Tj\u00e4r\u00f6 Tj\u00e4r\u00f6 > Arkaoda Berlin Berlin"
+  },
+  {
+    "start": [
+      13.4426702,
+      52.4738267,
+      0
+    ],
+    "end": [
+      12.6141973,
+      56.0340644,
+      0
+    ],
+    "name": "Arkaoda Berlin Berlin > Toldkammeret Helsing\u00f6r"
+  },
+  {
+    "start": [
+      12.6141973,
+      56.0340644,
+      0
+    ],
+    "end": [
+      -0.1275862,
+      51.5072178,
+      0
+    ],
+    "name": "Toldkammeret Helsing\u00f6r > The Place London"
+  },
+  {
+    "start": [
+      -0.1275862,
+      51.5072178,
+      0
+    ],
+    "end": [
+      13.188529,
+      55.696097,
+      0
+    ],
+    "name": "The Place London > Mejeriet Lund"
+  },
+  {
+    "start": [
+      13.188529,
+      55.696097,
+      0
+    ],
+    "end": [
+      13.404954,
+      52.5200066,
+      0
+    ],
+    "name": "Mejeriet Lund > Heroines of Sound Berlin"
+  },
+  {
+    "start": [
+      13.404954,
+      52.5200066,
+      0
+    ],
+    "end": [
+      11.9438985,
+      57.6978104,
+      0
+    ],
+    "name": "Heroines of Sound Berlin > Skogen G\u00f6teborg"
+  },
+  {
+    "start": [
+      11.9438985,
+      57.6978104,
+      0
+    ],
+    "end": [
+      11.9576104,
+      57.6948959,
+      0
+    ],
+    "name": "Skogen G\u00f6teborg > Atalante G\u00f6teborg"
+  },
+  {
+    "start": [
+      11.9576104,
+      57.6948959,
+      0
+    ],
+    "end": [
+      11.9053815,
+      57.6893715,
+      0
+    ],
+    "name": "Atalante G\u00f6teborg > Koloni 24kvm G\u00f6teborg"
+  },
+  {
+    "start": [
+      11.9053815,
+      57.6893715,
+      0
+    ],
+    "end": [
+      -0.0232866,
+      51.542761,
+      0
+    ],
+    "name": "Koloni 24kvm G\u00f6teborg > The Yard Theatre London"
+  },
+  {
+    "start": [
+      -0.0232866,
+      51.542761,
+      0
+    ],
+    "end": [
+      15.439504,
+      47.070714,
+      0
+    ],
+    "name": "The Yard Theatre London > Where Swallows Fly Backwards Graz"
+  },
+  {
+    "start": [
+      15.439504,
+      47.070714,
+      0
+    ],
+    "end": [
+      14.4170556,
+      48.353898,
+      0
+    ],
+    "name": "Where Swallows Fly Backwards Graz > Klangfestival Linz"
+  },
+  {
+    "start": [
+      14.4170556,
+      48.353898,
+      0
+    ],
+    "end": [
+      11.9529396,
+      57.7443268,
+      0
+    ],
+    "name": "Klangfestival Linz > Lillhagen G\u00f6teborg"
+  },
+  {
+    "start": [
+      11.9529396,
+      57.7443268,
+      0
+    ],
+    "end": [
+      2.367489,
+      48.86146,
+      0
+    ],
+    "name": "Lillhagen G\u00f6teborg > Le Pop In Paris"
+  },
+  {
+    "start": [
+      2.367489,
+      48.86146,
+      0
+    ],
+    "end": [
+      12.922107,
+      50.8234764,
+      0
+    ],
+    "name": "Le Pop In Paris > Atomino Chemnitz"
+  },
+  {
+    "start": [
+      12.922107,
+      50.8234764,
+      0
+    ],
+    "end": [
+      13.05501,
+      47.80949,
+      0
+    ],
+    "name": "Atomino Chemnitz > Performing Sound Festival Salzburg"
+  },
+  {
+    "start": [
+      13.05501,
+      47.80949,
+      0
+    ],
+    "end": [
+      18.6118669,
+      54.3769193,
+      0
+    ],
+    "name": "Performing Sound Festival Salzburg > Kolonia Artyst\u00f3w Gdansk"
+  },
+  {
+    "start": [
+      18.6118669,
+      54.3769193,
+      0
+    ],
+    "end": [
+      13.4372086,
+      52.4995184,
+      0
+    ],
+    "name": "Kolonia Artyst\u00f3w Gdansk > Madame Claude Berlin"
+  },
+  {
+    "start": [
+      13.4372086,
+      52.4995184,
+      0
+    ],
+    "end": [
+      13.404954,
+      52.5200066,
+      0
+    ],
+    "name": "Madame Claude Berlin > Rundgang Berlin"
+  },
+  {
+    "start": [
+      13.404954,
+      52.5200066,
+      0
+    ],
+    "end": [
+      13.4655798,
+      52.5016958,
+      0
+    ],
+    "name": "Rundgang Berlin > Scapegoat Tiefgrund Berlin"
+  },
+  {
+    "start": [
+      13.4655798,
+      52.5016958,
+      0
+    ],
+    "end": [
+      13.4195107,
+      52.5447965,
+      0
+    ],
+    "name": "Scapegoat Tiefgrund Berlin > Ausland Berlin"
+  },
+  {
+    "start": [
+      13.4195107,
+      52.5447965,
+      0
+    ],
+    "end": [
+      13.3588109,
+      52.5521618,
+      0
+    ],
+    "name": "Ausland Berlin > Spektral Gallery Berlin"
+  },
+  {
+    "start": [
+      13.3588109,
+      52.5521618,
+      0
+    ],
+    "end": [
+      13.4009005,
+      52.5335212,
+      0
+    ],
+    "name": "Spektral Gallery Berlin > ACUD Berlin"
+  },
+  {
+    "start": [
+      13.4009005,
+      52.5335212,
+      0
+    ],
+    "end": [
+      13.404954,
+      52.5200066,
+      0
+    ],
+    "name": "ACUD Berlin > Meetup Berlin"
+  },
+  {
+    "start": [
+      13.404954,
+      52.5200066,
+      0
+    ],
+    "end": [
+      11.9053815,
+      57.6893715,
+      0
+    ],
+    "name": "Meetup Berlin > 24kvm G\u00f6teborg"
+  },
+  {
+    "start": [
+      11.9053815,
+      57.6893715,
+      0
+    ],
+    "end": [
+      13.404954,
+      52.5200066,
+      0
+    ],
+    "name": "24kvm G\u00f6teborg > International Conference Berlin"
+  },
+  {
+    "start": [
+      13.404954,
+      52.5200066,
+      0
+    ],
+    "end": [
+      12.7206453,
+      56.7422437,
+      0
+    ],
+    "name": "International Conference Berlin > BZZZ! International Sound Art Festival Harplinge"
+  },
+  {
+    "start": [
+      12.7206453,
+      56.7422437,
+      0
+    ],
+    "end": [
+      11.931065,
+      57.697893,
+      0
+    ],
+    "name": "BZZZ! International Sound Art Festival Harplinge > Musikens Hus G\u00f6teborg"
+  },
+  {
+    "start": [
+      11.931065,
+      57.697893,
+      0
+    ],
+    "end": [
+      10.9916215,
+      45.4383842,
+      0
+    ],
+    "name": "Musikens Hus G\u00f6teborg > Verona Risuona Verona"
+  },
+  {
+    "start": [
+      10.9916215,
+      45.4383842,
+      0
+    ],
+    "end": [
+      14.4378005,
+      50.0755381,
+      0
+    ],
+    "name": "Verona Risuona Verona > KLUB Prag"
+  },
+  {
+    "start": [
+      14.4378005,
+      50.0755381,
+      0
+    ],
+    "end": [
+      14.4529166,
+      50.0908045,
+      0
+    ],
+    "name": "KLUB Prag > Peters Burger Pub Prag"
+  },
+  {
+    "start": [
+      14.4529166,
+      50.0908045,
+      0
+    ],
+    "end": [
+      11.97456,
+      57.70887,
+      0
+    ],
+    "name": "Peters Burger Pub Prag > HSM GOES PUBLIC G\u00f6teborg"
+  },
+  {
+    "start": [
+      11.97456,
+      57.70887,
+      0
+    ],
+    "end": [
+      11.9336594,
+      57.6985081,
+      0
+    ],
+    "name": "HSM GOES PUBLIC G\u00f6teborg >  "
+  }
+]
